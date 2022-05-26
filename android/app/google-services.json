@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11114693530",
+    "project_id": "friendschat-3de4c",
+    "storage_bucket": "friendschat-3de4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11114693530:android:ff1d09ce211e5ecdbd7023",
+        "android_client_info": {
+          "package_name": "com.miskatshowmik.firebase_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11114693530-6vgjiucf9529e4q66m3kjogctabhlbon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIKo0aOuZZOTP4jCnt9zQvwW5gO9t3Jzc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11114693530-6vgjiucf9529e4q66m3kjogctabhlbon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
